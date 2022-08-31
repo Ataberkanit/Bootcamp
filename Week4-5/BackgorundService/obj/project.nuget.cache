@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FHhCdLvouFwDIeDOLkSeHrtU93KWlxdUlWy1DLvScEesMQCNSJjH+iupgccYrDHiqwwYkDx75NNgmE696He2+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ataberk\\source\\repos\\Hafta4\\BackgorundServices\\BackgorundServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ataberk\\.nuget\\packages\\hangfire.core\\1.7.30\\hangfire.core.1.7.30.nupkg.sha512",
+    "C:\\Users\\Ataberk\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
